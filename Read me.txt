@@ -1,0 +1,8 @@
+Step one:
+create database called garage
+import databse from the xammp using database file from the db folder with garage.sql file
+
+Step two:
+login from admin panel using the details below
+username: 
+passwaord: 
